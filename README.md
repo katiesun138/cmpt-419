@@ -2,15 +2,15 @@
 Sarcasm detection presents a challenging task in natural language
 processing due to its nuanced and context-dependent nature. In
 this paper, we propose a comprehensive multi-modal framework
-for sarcasm detection, leveraging textual analysis, tone recogni-
+for sarcasm detection, leveraging textual analysis, tone recogni
 tion, and visual processing. We extend the MUStARD dataset to
-include audio and video components, providing a diverse and an-
+include audio and video components, providing a diverse and an
 notated collection for model training and evaluation. Our approach
-utilizes late fusion techniques to integrate information from dif-
+utilizes late fusion techniques to integrate information from dif
 ferent modalities, enhancing the model’s accuracy and robustness.
 Interestingly, we observe that omitting the visual aspect leads to a
 notable increase in accuracy, prompting further exploration into
-the dynamics of sarcasm detection. Our study underscores the im-
+the dynamics of sarcasm detection. Our study underscores the im
 portance of considering multiple cues in sarcasm detection and lays
 the groundwork for future advancements in this field.
 
